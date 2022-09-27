@@ -25,6 +25,8 @@ public class ArraySumWhile {
             }
             q++;
         }
+        System.out.println(summ1);
+        System.out.println(summ2);
 
     }
 }
